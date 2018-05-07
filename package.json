@@ -14,7 +14,7 @@
     "file manifest"
   ],
   "scripts": {
-    "prepublish": "gulp build --project workbox-webpack-plugin"
+    "prepare": "gulp build --project workbox-webpack-plugin"
   },
   "main": "build/index.js",
   "files": ["build"],
