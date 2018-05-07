@@ -13,9 +13,6 @@
     "offline",
     "file manifest"
   ],
-  "scripts": {
-    "prepare": "gulp build --project workbox-webpack-plugin"
-  },
   "main": "build/index.js",
   "files": ["build"],
   "engines": {
